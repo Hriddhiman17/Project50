@@ -1,0 +1,17 @@
+h1{
+    background-color: cadetblue;
+}
+img{
+    border: solid;
+    display : flex;
+    justify-content: space-between;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.back{
+    display: flex;
+    justify-content: center;
+}
